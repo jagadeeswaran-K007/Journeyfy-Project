@@ -1,1 +1,1 @@
-# Tripadvisor-clone-project
+# Journeyfy-project
