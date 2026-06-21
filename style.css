@@ -388,12 +388,14 @@ footer {
         gap: 20px;
         word-wrap: break-word;
         overflow-wrap: break-word;
+        font-size: 10px;
     }
     .card__container {
         flex-direction: column;
         gap: 20px;
         word-wrap: break-word;
         overflow-wrap: break-word;
+        font-size: 10px;
     }
 }
 /* -----------Mobile------------------------ */
