@@ -307,7 +307,9 @@ footer {
 /* ---------tab----------------- */
 
 @media(max-width:768px) {
-
+    body {
+        font-size: 10px;
+    }
     .logo  {
         width: 60px;
         height: auto;
@@ -396,6 +398,10 @@ footer {
 }
 /* -----------Mobile------------------------ */
 @media(max-width:480px) {
+
+body {
+        font-size: 10px;
+    }
 .logo {
     width: 60px;
     height: auto;
