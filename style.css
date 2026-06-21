@@ -401,11 +401,14 @@ footer {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 10px;
+    margin-bottom: 10px
+
     }
     .card h3 p {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 10px;
+    margin-bottom: 10px;
     }
 }
 /* -----------Mobile------------------------ */
@@ -443,11 +446,13 @@ body {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 10px;
+    margin-bottom: 10px;
 }
 .card h3 p {
     word-wrap: break-word;
     overflow-wrap: break-word;
     font-size: 10px;
+    margin-bottom: 10px;
 }
 }
 
