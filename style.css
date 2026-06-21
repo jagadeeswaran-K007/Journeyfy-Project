@@ -397,6 +397,16 @@ footer {
         overflow-wrap: break-word;
         font-size: 10px;
     }
+    .interest__card h3{
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 10px;
+    }
+    .card h3 p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 10px;
+    }
 }
 /* -----------Mobile------------------------ */
 @media(max-width:480px) {
@@ -421,6 +431,7 @@ body {
         font-size: 10px;
         
 }
+
 .card__container {
         flex-direction: column;
         gap: 20px;
@@ -428,7 +439,16 @@ body {
         overflow-wrap: break-word;
         font-size: 10px;
     }
-
+.interest__card h3{
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 10px;
+}
+.card h3 p {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    font-size: 10px;
+}
 }
 
 /* ----------------Main Slider ------------------ */
